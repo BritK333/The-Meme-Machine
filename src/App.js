@@ -24,7 +24,10 @@ class App extends React.Component {
       });
   }
   handleChange(event) {
-    const { name, value } = event; //something needs to go here for "input" to output
+    const {
+      name,
+      value
+    } = event; /* something needs to go here for "input" to output */
     this.setState({
       [name]: value
     });
