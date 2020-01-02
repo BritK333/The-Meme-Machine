@@ -27,7 +27,7 @@ class App extends React.Component {
     const {
       name,
       value
-    } = event; /* something needs to go here for "input" to output */
+    } = event; /* something needs to go here for "input" field to work */
     this.setState({
       [name]: value
     });
