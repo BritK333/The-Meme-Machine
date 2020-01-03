@@ -1,4 +1,4 @@
-This project is like a random quote machine I built with React, React Hooks, HTML, CSS, and Vanilla Javascript!
+This project is built with React, React Hooks, HTML, CSS, and Vanilla Javascript!
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
