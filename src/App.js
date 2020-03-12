@@ -23,11 +23,11 @@ class App extends React.Component {
         this.setState({ allMemeImgs: memes });
       });
   }
-  handleChange(event) {
+  handleChange(e) {
     const {
       name,
       value
-    } = event; /* something needs to go here for "input" field to work */
+    } = event; 
     this.setState({
       [name]: value
     });
